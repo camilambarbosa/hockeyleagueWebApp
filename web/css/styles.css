@@ -1,0 +1,61 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov. 13, 2021, 7:18:32 p.m.
+    Author     : camilabarbosa
+*/
+
+
+
+
+.logoRockey {
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+.edition{
+    width: 15px;
+    height: 15px;
+    margin-left: 20px;
+}
+
+.playerName{
+    width: 250px;
+    display: inline-block;
+}
+
+input[type=submit]{
+    border: 0;
+}
+.linkButton, input[type=submit]{
+    background: #8080808c; 
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    color: black;
+   
+}
+
+.linkButton:hover, .linkButton:active, input[type=submit]:hover,input[type=submit]:active{
+    background: #808080c7;
+}
+
+
+label {
+    width: 70px;
+    display: inline-block;
+    
+}
